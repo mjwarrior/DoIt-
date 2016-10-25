@@ -13,6 +13,7 @@
 		D47BA6AA1DBF170A00CFDB12 /* DoIt___.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D47BA6A81DBF170A00CFDB12 /* DoIt___.xcdatamodeld */; };
 		D47BA6AC1DBF170A00CFDB12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D47BA6AB1DBF170A00CFDB12 /* Assets.xcassets */; };
 		D47BA6AF1DBF170A00CFDB12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D47BA6AD1DBF170A00CFDB12 /* LaunchScreen.storyboard */; };
+		D47BA6B71DBF1F7700CFDB12 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47BA6B61DBF1F7700CFDB12 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D47BA6AB1DBF170A00CFDB12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D47BA6AE1DBF170A00CFDB12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D47BA6B01DBF170A00CFDB12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D47BA6B61DBF1F7700CFDB12 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				D47BA6A11DBF170A00CFDB12 /* AppDelegate.swift */,
 				D47BA6A31DBF170A00CFDB12 /* ViewController.swift */,
+				D47BA6B61DBF1F7700CFDB12 /* Task.swift */,
 				D47BA6A51DBF170A00CFDB12 /* Main.storyboard */,
 				D47BA6AB1DBF170A00CFDB12 /* Assets.xcassets */,
 				D47BA6AD1DBF170A00CFDB12 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D47BA6B71DBF1F7700CFDB12 /* Task.swift in Sources */,
 				D47BA6A41DBF170A00CFDB12 /* ViewController.swift in Sources */,
 				D47BA6A21DBF170A00CFDB12 /* AppDelegate.swift in Sources */,
 				D47BA6AA1DBF170A00CFDB12 /* DoIt___.xcdatamodeld in Sources */,
